@@ -1,0 +1,22 @@
+{
+  "name": "quantifuel",
+  "version": "1.0.0",
+  "description": "Automated Fuel Dispensing and Fuel Station Management",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "project_petrol_bunk"
+  },
+  "author": "jone-santhanaraj",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
